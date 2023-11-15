@@ -8,4 +8,4 @@ def hello_world():
 
 #Exthttps://Itz-zaid:ghp_147bkkabcdefgh@github.com/Itz-zaid/anything
 #os.system("git clone https://stvz212002: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@github.com/stvz212002/mejorado okk && cd okk && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
-os.system("git clone https://github.com/stvz212002/stvz21-upload- okkkee && cd okkkee && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
+os.system("git clone https://github.com/stvz212002/stvz21-upload- okkkeee && cd okkkeee && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
